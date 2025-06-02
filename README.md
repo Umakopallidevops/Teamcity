@@ -1,2 +1,1 @@
-# Teamcity
-Uma teamcity repo
+# GandoTechRepo1
